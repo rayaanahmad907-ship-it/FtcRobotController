@@ -7,7 +7,7 @@ import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 
 
 @Disabled
-@Autonomous
+@TeleOp
 public class HelloWorld extends OpMode {
 
     @Override
@@ -20,7 +20,18 @@ public class HelloWorld extends OpMode {
     }
 
     /*
-    1. Hello: World, change the telemetary data to display "Hello: Your name"
+    1. Hello: World, change the telemetry data to display "Hello: Your name"
     2. Run this code in the Autonomous section of your DS
      */
+    // Learning how to code
+    /*
+    *why
+    * w
+    * g
+    * jj
+    * g
+    * ww
+     */
+
 }
+//datatype name
